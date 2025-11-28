@@ -17,9 +17,13 @@ L’idée est de produire, depuis un backend Java, un objet carte (pass) compati
 ## Structure du projet
 
 /
+
 ├── .mvn/ ← configuration Maven
+
 ├── src/ ← code source Java
+
 ├── pom.xml ← configuration du projet Maven
+
 └── README.md ← ce fichier
 
 ## Architecture générale
